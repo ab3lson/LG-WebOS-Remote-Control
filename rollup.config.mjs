@@ -34,8 +34,8 @@ export default [
     {
         input: "src/lg-remote-control.ts",
         output: {
-            dir: "dist",
-            format: "es",
+            dir: "./",
+            format: "e",
         },
         plugins: [...plugins],
     },
