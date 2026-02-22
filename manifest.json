@@ -1,5 +1,9 @@
 {
-"name": "LG WebOS Remote Control",
-"filename": "lg-remote-control.js",
-"render_readme" : true
+  "name": "LG WebOS Remote Control",
+  "type": "frontend",
+  "version": "2.0.0",
+  "url": "https://github.com/ab3lson/LG-WebOS-Remote-Control",
+  "filename": "lg-remote-control.js",
+  "min_homeassistant": "2022.12.0",
+  "render_readme": true
 }
